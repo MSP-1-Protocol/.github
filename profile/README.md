@@ -96,7 +96,7 @@ AI agents integrating MSP-1 should:
    - Request: `/.well-known/msp.json` from the site root.  
 
 2. **Inspect**  
-   - Read `protocol`, `version`, `site`, `content`, and `aiUsePolicy`.  
+   - Read `protocol`, `version`, `site`, and `content`.  
    - Honor declared training and derivative-use conditions.
 
 3. **Resolve Page Metadata**  
