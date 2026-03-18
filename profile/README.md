@@ -109,8 +109,6 @@ AI agents integrating MSP-1 should:
      - content freshness  
      - safe use conditions  
 
-5. **Respect Policies**  
-   - Align training and usage behavior with the site’s `aiUsePolicy` declarations.
 
 ---
 
