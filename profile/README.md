@@ -14,8 +14,7 @@ MSP-1 (Mark Semantic Protocol) is a **machine-first metadata standard** that giv
 - What a site is about (purpose & primary topic)  
 - Who it serves (audience & intent)  
 - How authoritative it is (expertise & originality signals)  
-- How and when content is updated  
-- How content may be used by AI systems (training and derivative-use policy)  
+- How and when content is updated   
 - How pages relate internally and externally (semantic relationships)  
 
 Instead of forcing AI to guess meaning from HTML, MSP-1 exposes **structured intent** in a predictable, JSON-based format.
