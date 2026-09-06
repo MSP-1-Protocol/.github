@@ -2,7 +2,7 @@
 
 A universal, AI-first metadata standard enabling machine-readable clarity, authority signals, and structured intent across the web.
 
-**Current Version:** MSP-1.0.1  
+**Current Version:** MSP-1.0.2  
 **Official Site:** https://msp-1.org/  
 
 ---
