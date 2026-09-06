@@ -47,20 +47,16 @@ MSP-1 is built around three simple but powerful ideas:
 
 ## 🚀 Getting Started (For Implementers)
 
-1. **Download the Universal Package**  
-   - From `msp-1-package` releases (e.g., `msp-1-universal-package-v1.0.1.zip`)  
-   - Or via the official site: https://msp-1.org/downloads/ (when available)
-
-2. **Place `/.well-known/msp.json`** at your site root  
+1. **Place `/.well-known/msp.json`** at your site root  
    - Ensure it resolves at:  
      `https://your-domain.com/.well-known/msp.json`  
    - Edit the placeholder values to reflect your domain, audience, and policies.
 
-3. **Expose page-level MSP-1 JSON**  
+2. **Expose page-level MSP-1 JSON**  
    - Follow the `pageMetadataPattern` in `msp.json`  
    - Validate against `msp-1-page.json` or a more specific schema (article, gallery, blog, etc.).
 
-4. **Validate your implementation**  
+3. **Validate your implementation**  
    - Use tools from `msp-1-tools` (CLI or online validators)  
    - Confirm your JSON passes schema validation and matches your site structure.
 
