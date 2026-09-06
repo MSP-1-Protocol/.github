@@ -44,27 +44,6 @@ MSP-1 is built around three simple but powerful ideas:
 
 ---
 
-## 📚 Key Repositories (Recommended Layout)
-
-> These repo names are suggestions — adjust them to match your actual setup.
-
-- **`msp-1-spec`**  
-  Authoritative protocol specification, version history, and formal documentation.
-
-- **`msp-1-package`**  
-  The **Universal Package**: ready-to-install `.well-known/msp.json`, schemas, docs, and examples.  
-  Intended for direct use by web implementers.
-
-- **`msp-1-tools`**  
-  Validator scripts, helper libraries, reference implementations, and CMS integration tools.
-
-As MSP-1 evolves, additional repos may include:
-
-- CMS plugins (e.g., `msp-1-drupal`, `msp-1-wordpress`)  
-- Example sites and reference implementations  
-- Validation services and dashboards  
-
----
 
 ## 🚀 Getting Started (For Implementers)
 
