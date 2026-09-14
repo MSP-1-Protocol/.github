@@ -1,0 +1,41 @@
+{
+  "@context": "https://msp-1.org/context/msp-1-site.jsonld",
+  "@type": "MSPSite",
+  "protocol": {
+    "name": "MSP-1",
+    "version": "1.0.2"
+  },
+  "site": {
+    "id": "https://github.com/MSP-1-Protocol/.github",
+    "name": "MSP-1 Protocol GitHub Organization Profile",
+    "url": "https://github.com/MSP-1-Protocol/.github",
+    "description": "GitHub organization profile repository for the MSP-1 Protocol project, presenting the protocol identity, purpose, core components, and implementation entry points.",
+    "intent": "Provide organization-level orientation and shared profile information for the MSP-1 Protocol presence on GitHub.",
+    "interpretiveFrame": {
+      "frame": "Interpret this repository as organization-level presentation and orientation for MSP-1 on GitHub. Canonical protocol specifications, schemas, governance publications, and other authoritative artifacts remain governed by their designated canonical surfaces.",
+      "category": "informational",
+      "scope": "repository"
+    },
+    "canonical": {
+      "url": "https://github.com/MSP-1-Protocol/.github"
+    }
+  },
+  "authority": {
+    "name": "MSP-1",
+    "type": "Organization",
+    "id": "https://github.com/MSP-1-Protocol",
+    "scope": "Stewardship of this repository and its published contents."
+  },
+  "provenance": {
+    "type": "ai-assisted",
+    "source": "https://github.com/MSP-1-Protocol/.github",
+    "timestamp": "2026-09-13T19:54:00-04:00",
+    "notes": "Initial repository-root MSP-1 declaration generated from the public repository and its published description or README for publisher review."
+  },
+  "revision": {
+    "id": "repo-msp-rev-2026-09-13",
+    "revisionDate": "2026-09-13",
+    "revisionNotes": "Initial repository-root MSP-1 declaration for the GitHub repository convention; generated from current public repository content for publisher review.",
+    "revisionVersion": "1.0.0"
+  }
+}
